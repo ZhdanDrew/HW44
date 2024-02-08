@@ -1,0 +1,61 @@
+footer {
+  width: 80%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 100px;
+  margin-top: 0;
+}
+footer .left-foot {
+  width: 40%;
+  position: relative;
+}
+footer .left-foot h3 {
+  font-size: 32px;
+  font-weight: 500;
+  letter-spacing: 3px;
+}
+footer .left-foot h5 {
+  font-size: 18px;
+  font-weight: 500;
+  width: 60%;
+}
+footer .left-foot h6 {
+  position: absolute;
+  bottom: 0;
+  color: rgba(30, 30, 30, 0.4784313725);
+  font-weight: 500;
+}
+footer .right-foot {
+  width: 40%;
+  display: flex;
+  justify-content: space-between;
+}
+footer .right-foot .left-side h4 {
+  color: #900000;
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+footer .right-foot .left-side a {
+  color: #000;
+}
+footer .right-foot .left-side a h5 {
+  line-height: 40px;
+  font-size: 20px;
+  font-weight: 500;
+}
+footer .right-foot .right-side h4 {
+  color: #900000;
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+footer .right-foot .right-side a {
+  color: #000;
+}
+footer .right-foot .right-side a h5 {
+  line-height: 40px;
+  font-size: 20px;
+  font-weight: 500;
+}
